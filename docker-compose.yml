@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: db-chats
+      host: carlarielamongodb
+      port: 27017
+
